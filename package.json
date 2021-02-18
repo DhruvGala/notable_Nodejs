@@ -1,0 +1,19 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "Back-end skeleton for a note-taking application, like Google Keep. basically implementing CRUD actions on note using API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhruvGala/notable_Nodejs.git"
+  },
+  "author": "dhruv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhruvGala/notable_Nodejs/issues"
+  },
+  "homepage": "https://github.com/DhruvGala/notable_Nodejs#readme"
+}
