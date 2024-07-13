@@ -1,2 +1,2 @@
-Building a Node.js APi along with MongoDB database to perform bare minimum CRUD actions using Postman. This repository is basically on [this article](https://www.freecodecamp.org/news/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2/).
+Building a Node.js API along with MongoDB database to perform bare minimum CRUD actions using Postman. This repository is basically built to replicate [this article](https://www.freecodecamp.org/news/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2/).
 Think about the Google Keep application, this API is bassically performs CRUD actions on the mongodb database to read. write, update and delete notes.
